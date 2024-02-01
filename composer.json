@@ -1,0 +1,17 @@
+{
+    "name": "dzmitry/hexlet-slim",
+    "autoload": {
+        "psr-4": {
+            "Dzmitry\\HexletSlim\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "DzmitryV",
+            "email": "vlasenko.dmitry1@gmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "^4.12"
+    }
+}
